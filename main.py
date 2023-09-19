@@ -61,7 +61,6 @@ plt.ylabel('Precisão')
 plt.title('Comparação da Precisão dos Modelos')
 plt.show()
 
-
 '''
 #Fronteira de Decisão
 # Cria uma grade de pontos em toda a região de interesse
